@@ -1,6 +1,6 @@
 import pefile
 
-FILE_NAME = r"E:\steam\steamapps\common\Chronicle of Scarlet Demo\Chronicle of Scarlet Demo\ChronicleDemo.exe"
+FILE_NAME = ".exe"
 AES_KEY_SIZE = 32
 
 def is_valid_lea_instruction(inst):
